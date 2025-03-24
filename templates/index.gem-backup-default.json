@@ -1,0 +1,145 @@
+{
+  "sections": {
+    "rich_text_x7TXk3": {
+      "type": "rich-text",
+      "blocks": {
+        "text_AWrnDz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Super. Simple. Banking.<\/p>"
+          }
+        },
+        "heading_6yEgAH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Simple banking that works like magic.",
+            "heading_size": "h1"
+          }
+        },
+        "text_xmpWMR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Simple, transparent banking. No hidden fees and free overdrafts.<\/p>"
+          }
+        },
+        "button_iLh74D": {
+          "type": "button",
+          "settings": {
+            "button_label": "Demo",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "Sing up",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_AWrnDz",
+        "heading_6yEgAH",
+        "text_xmpWMR",
+        "button_iLh74D"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "text_e4wctc": {
+          "type": "text",
+          "settings": {
+            "text": "Super. Simple. Banking.",
+            "text_style": "body"
+          }
+        },
+        "heading_eLyTFb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Simple banking that works like magic.",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_ghC86r": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "demo",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_e4wctc",
+        "heading_eLyTFb",
+        "buttons_ghC86r"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Container.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "image_behavior": "none",
+        "desktop_content_position": "top-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "rich_text_HyBNeG": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_HCfHtD": {
+          "type": "caption",
+          "settings": {
+            "caption": "Features",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        },
+        "heading_t4Pf3Y": {
+          "type": "heading",
+          "settings": {
+            "heading": "The only card you’ll ever need. Simple.",
+            "heading_size": "h1"
+          }
+        },
+        "text_Fx7cdL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Spend smarter, lower your bills, get cashback on everything you buy, and unlock credit to grow your business.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "caption_HCfHtD",
+        "heading_t4Pf3Y",
+        "text_Fx7cdL"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 96,
+        "padding_bottom": 96
+      }
+    }
+  },
+  "order": [
+    "rich_text_x7TXk3",
+    "image_banner",
+    "rich_text_HyBNeG"
+  ]
+}

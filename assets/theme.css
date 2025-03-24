@@ -1,0 +1,11 @@
+.ig8kf1lc8TcMjxKeJ p {
+  color: var(--Base-White, #FFF);
+  color: var(--Base-White, color(display-p3 1 1 1));
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 90px;
+  letter-spacing: -1.44px;
+}
